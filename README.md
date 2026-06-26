@@ -38,7 +38,7 @@
 ---
 
 ### Email
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=a72819792@gmail.com)
+[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg)](https://mail.google.com/mail/?view=cm&fs=1&to=a72819792@gmail.com)
 
 
 <!--
