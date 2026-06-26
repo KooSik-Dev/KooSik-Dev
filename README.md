@@ -38,7 +38,9 @@
 ---
 
 ### Email
-[![Gmail]([https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg](https://github.com/KooSik-Dev/KooSik-Dev/blob/main/readme-images/Gmail_icon.png))](https://mail.google.com/mail/?view=cm&fs=1&to=a72819792@gmail.com)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=a72819792@gmail.com">
+  <img src="https://github.com/KooSik-Dev/KooSik-Dev/raw/main/readme-images/Gmail_icon.png" width="40" height="40" alt="Gmail" />
+</a>
 
 
 <!--
