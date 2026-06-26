@@ -4,7 +4,7 @@
 
 ### 주요 성과
 * **2026년 충청북도 기능경기대회 게임개발 직종 동메달 **
-
+* 
 ---
 
 ### 소속 및 소개
@@ -23,7 +23,7 @@
 ---
 
 ### 공부 또는 사용 중인 언어
-> 여러 가지 프로그래밍 언어를 다방면으로 접하며 기초 체력을 기르고 있습니다!
+> 여러 가지 프로그래밍 언어를 접하며 기초 부터 마스터 까지 기르고 있습니다!
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  width="40" height="40" />
