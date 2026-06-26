@@ -7,6 +7,18 @@
 
 ---
 
+<table width="100%">
+  <tr bgcolor="#1f2328"> <td>
+      <h3 align="center" style="color: #ffffff;">안녕하세요, 개발자 프로필입니다!</h3>
+      <p align="center">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=a72819792@gmail.com">
+          <img src="https://github.com/KooSik-Dev/KooSik-Dev/raw/main/readme-images/Gmail_icon.png" width="40" height="40" alt="Gmail" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ### 소속 및 소개
 * **학교**: 충주상업고등학교 **스마트IT과** 5기 재학생 (고2)
 * **이름**: 김구식 (GooSik Kim)
