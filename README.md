@@ -3,7 +3,7 @@
 <img src="https://github.com/KooSik-Dev/KooSik-Dev/raw/main/readme-images/image1.jpg" width="500">
 
 ### 주요 성과
-* **2026년 충청북도 기능경기대회 게임개발 직종 동메달 🥉**
+* **2026년 충청북도 기능경기대회 게임개발 직종 동메달 **
   * *대회에서 배운 핵심 기술과 경험을 바탕으로 탄탄한 게임 개발 역량을 키워나가고 있습니다.*
 
 ---
