@@ -27,10 +27,7 @@
 > 여러 가지 프로그래밍 언어를 다방면으로 접하며 기초 체력을 기르고 있습니다!
 
 <p align="left">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
+  <a href="https://iconscout.com/icons/html" class="text-underline font-size-sm" target="_blank">Html</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>
 </p>
 
 ---
