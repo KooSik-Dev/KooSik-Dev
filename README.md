@@ -27,9 +27,7 @@
 > 여러 가지 프로그래밍 언어를 다방면으로 접하며 기초 체력을 기르고 있습니다!
 
 <p align="left">
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          
+
 </p>
 
 ---
