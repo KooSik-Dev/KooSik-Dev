@@ -38,7 +38,7 @@
 ---
 
 ### Email
-<a href="https://google.com" target="_blank">a72819792@gmail.com으로 메일 보내기</a>
+<a href="mailto:a72819792@gmail.com">a72819792@gmail.com으로 메일 보내기</a>
 
 
 <!--
