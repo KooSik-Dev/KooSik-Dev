@@ -4,7 +4,7 @@
 
 ### 주요 성과
 * **2026년 충청북도 기능경기대회 게임개발 직종 동메달 **
-* 
+
 ---
 
 ### 소속 및 소개
@@ -37,8 +37,11 @@
 
 ---
 
-### 📈 GitHub Stats
-![Gusick's GitHub stats](https://vercel.app)
+### Email
+<a href="mailto:a72819792@gmail.com">
+  <img src="https://github.com" width="500" alt="이메일 보내기">
+</a>
+
 
 <!--
 - 🔭 I’m currently working on ... 학교 프로젝트 및 개인 토이 프로젝트
