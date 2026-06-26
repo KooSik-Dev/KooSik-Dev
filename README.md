@@ -38,7 +38,7 @@
 ---
 
 ### Email
-[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg)](https://mail.google.com/mail/?view=cm&fs=1&to=a72819792@gmail.com)
+[![Gmail]([https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg](https://github.com/KooSik-Dev/KooSik-Dev/blob/main/readme-images/Gmail_icon.png))](https://mail.google.com/mail/?view=cm&fs=1&to=a72819792@gmail.com)
 
 
 <!--
