@@ -27,7 +27,8 @@
 > 여러 가지 프로그래밍 언어를 다방면으로 접하며 기초 체력을 기르고 있습니다!
 
 <p align="left">
-<i class="devicon-html5-plain"></i>
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 </p>
 
 ---
