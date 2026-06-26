@@ -38,7 +38,7 @@
 ---
 
 ### Email
-[a72819792@gmail.com으로 메일 보내기 ↗️](https://mail.google.com/mail/?view=cm&fs=1&to=a72819792@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=a72819792@gmail.com)
 
 
 <!--
