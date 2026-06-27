@@ -38,7 +38,7 @@
 ---
 
 ### Email
->goosik@goosik.kro.kr
+>koosik@koosik.kro.kr
 
 
 <!--
